@@ -1,2 +1,3 @@
-# how-to-use-git
-I just try how to use the git
+此代码来源于大数据、基因和药物的课程的第二单元的例子。
+学习本课的目的在于，换了数据之后仍然能够处理。
+具体课程的名字为GIG data,genes,and medicine
